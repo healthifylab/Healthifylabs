@@ -1,0 +1,1 @@
+// script.js placeholder for React DOM rendering or custom logic

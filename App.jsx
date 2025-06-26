@@ -1,0 +1,1 @@
+// App.jsx - Healthify site with booking form, Firebase, test/profile dropdown, WhatsApp
